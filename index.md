@@ -17,7 +17,7 @@ title: Connect in Crisis
 ## 🌍 English
 
 ### 🧭 Purpose
-To help vulnerable people stay connected when the internet is down or monitored — especially in high-risk regions like Iran, Gaza, and beyond.
+To help vulnerable people stay connected when the internet is down or monitored — especially in high-risk regions.
 
 ### 🟢 Tier 1: Preparation (Before Shutdown)
 - Install secure apps: Bridgefy, Briar, Session, SimpleX
@@ -44,7 +44,7 @@ To help vulnerable people stay connected when the internet is down or monitored 
 ## 🇮🇷 Farsi (فارسی)
 
 ### 🧭 هدف
-برای کمک به افراد آسیب‌پذیر برای حفظ ارتباط در زمان قطع یا نظارت اینترنت — به‌ویژه در مناطق پرخطر مانند ایران و غزه.
+برای کمک به افراد آسیب‌پذیر برای حفظ ارتباط در زمان قطع یا نظارت اینترنت — به‌ویژه در مناطق پرخطر.
 
 ### 🟢 مرحله ۱: آمادگی قبل از قطع اینترنت
 - نصب اپلیکیشن‌های امن مانند Bridgefy، Briar، Session، SimpleX
@@ -98,7 +98,7 @@ To help vulnerable people stay connected when the internet is down or monitored 
 ## 🇸🇾 Arabic (العربية)
 
 ### 🧭 الهدف
-مساعدة الأشخاص المعرضين للخطر في البقاء على اتصال أثناء انقطاع الإنترنت أو عند المراقبة، خصوصاً في المناطق الحساسة مثل إيران وغزة.
+مساعدة الأشخاص المعرضين للخطر في البقاء على اتصال أثناء انقطاع الإنترنت أو عند المراقبة، خصوصاً في المناطق الحساسة.
 
 ### 🟢 المرحلة 1: التحضير قبل الانقطاع
 - تثبيت تطبيقات آمنة مثل Bridgefy، Briar، Session، SimpleX
@@ -125,7 +125,7 @@ To help vulnerable people stay connected when the internet is down or monitored 
 ## 🇹🇷 Turkish (Türkçe)
 
 ### 🧭 Amaç
-İnternetin kapatıldığı veya gözetlendiği durumlarda özellikle İran, Gazze gibi yüksek riskli bölgelerde insanların bağlantıda kalmalarına yardımcı olmak.
+İnternetin kapatıldığı veya gözetlendiği durumlarda özellikle yüksek riskli bölgelerde insanların bağlantıda kalmalarına yardımcı olmak.
 
 ### 🟢 Aşama 1: Kapatma Öncesi Hazırlık
 - Güvenli uygulamaları kurun: Bridgefy, Briar, Session, SimpleX
