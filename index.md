@@ -1,5 +1,6 @@
 ---
 layout: default
+![Connect in Crisis Logo](logo.png)
 title: Connect in Crisis
 ---
 
