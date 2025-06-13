@@ -158,7 +158,19 @@ To help vulnerable people stay connected when the internet is down or monitored 
 - Basit durum sinyalleri (örneğin hikaye = "güvendeyim") kullanın.
 
 ### 🧠 Gizlilik İpuçları
+- İki telefon kullanın: biri genel, biri güvenli.
+- Gerçek kimlik bilgilerinizi hassas uygulamalarda kullanmayın.
+- Gizli mod veya kamuflaj sağlayan uygulamalar tercih edin.
 </div>
+
+---
+
+## 🌐 Contribute or Translate
+Want to translate this guide further, share updates, or localize it for your region? [Open an issue](https://github.com/YOUR_USERNAME/connect-in-crisis/issues) or submit a pull request. We welcome your contributions.
+
+<footer>
+  <p><small>Made with care, not fear. This page is open-source under the MIT License.</small></p>
+</footer>
 - İki telefon kullanın: biri genel, biri güvenli.
 - Gerçek kimlik bilgilerinizi hassas uygulamalarda kullanmayın.
 - Gizli mod veya kamuflaj sağlayan uygulamalar tercih edin.. One phone for everyday use, another isolated phone for sensitive communication.
