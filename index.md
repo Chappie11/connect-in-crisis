@@ -1,9 +1,10 @@
 ---
 layout: default
-![Connect in Crisis Logo](logo.png)
 title: Connect in Crisis
 ---
-
+<p align="center">
+  <img src="logo.png" alt="Connect in Crisis Logo" width="200">
+</p>
 <header class="hero">
   <h1>🛡️ Connect in Crisis</h1>
   <p>A secure communication guide for families, journalists, and activists 
