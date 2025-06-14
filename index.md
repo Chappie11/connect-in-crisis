@@ -18,27 +18,39 @@ title: Connect in Crisis
 
 
 ### 🧭 Purpose
-To help vulnerable people stay connected when the internet is down or monitored — especially in high-risk regions.
+To help people stay connected during a crisis — both those inside high-risk zones and those trying to reach them from outside. We know this information may reach you during very stressful times, so this guide is designed to be short, calm, and easy to use. Each step is practical and aimed at helping you feel more in control, even when things feel uncertain.
 
 ### 🛠️ Tier 1: Preparation (Before Shutdown)
-- Install secure apps: Bridgefy, Briar, Session, SimpleX. These apps can work without traditional internet or use encrypted, peer-to-peer connections. Set them up on all phones in your household.
-- Back up contact info & code phrases on paper. In case your phone is lost, dead, or confiscated, you’ll still have access to critical phone numbers and pre-agreed signals.
-- Set up emoji/code-based check-ins. Decide on simple symbols (like 🟢 = I’m safe, 🔴 = I need help) and how/when to use them with loved ones.
+
+#### 📊 App Summary
+| App        | Mesh? | Offline? | Encryption | Best Use Case |
+|------------|:-----:|:--------:|:----------:|----------------|
+| **Bridgefy** | ✅ Bluetooth | ✅ | Moderate | Quick local messaging; not for sensitive info |
+| **Briar**    | ✅ Bluetooth/Wi‑Fi | ✅ | Strong | Trusted local groups (Android only) |
+| **Session**  | ❌ | ❌ | Very strong | Anonymous long-distance communication |
+| **SimpleX**  | ❌ | ❌ | Strong | Decentralized private messaging |
+
+Take a deep breath — you don’t have to do everything at once. These steps are here to support you and can be done one by one, with people you trust:
+
+- Install apps like Bridgefy, Briar, Session, or SimpleX. They help you stay in touch even when the internet is down.
+- Write down phone numbers and shared emoji codes (🟢 = safe, 🔴 = need help) on paper, in case your phone dies or is lost.
+- Make two simple plans: one for talking with people *inside* your area, one for checking in with loved ones *outside*.
+- Choose a time for check-ins (like 9 AM and 9 PM) so no one panics without updates.
 
 ### 📡 Tier 2: During Blackout
-- Use Bluetooth mesh (Bridgefy, Briar) within 100–200m range. These tools allow you to text people nearby without cell signal, using only Bluetooth.
-- Relay messages via trusted people with internet access. If one person in a group has access, they can send or receive messages on behalf of others.
-- Use tools like Gotenna or Meshtastic if available. These hardware-based mesh tools offer longer range and are good for communities or activists.
 
-### 🚨 Tier 3: Total Lockdown
-- Use steganography (messages in images). You can hide text inside seemingly innocent photos and share them via Bluetooth or storage drives.
-- Use pre-decided codebooks or shared quotes. For example, 'Page 4, Line 3' in a shared book means a specific message.
-- Use simple status rituals (e.g. emoji story = "I'm OK"). Agree on quiet ways to show you’re safe without triggering surveillance.
+If the internet goes out completely, stay calm. These tools and ideas can help you reach others nearby or pass messages out:
+
+- Use Bluetooth mesh (Bridgefy, Briar) to message people close to you — no Wi-Fi or cell needed.
+- If one person has internet, they can pass updates for others. Send short messages clearly (e.g., 'Ali safe. Need water.').
+- If you have tools like Gotenna or Meshtastic, use them. They’re great for group coverage.
+- If you reach someone who’s online, ask them to relay info to families or friends outside the zone.
 
 ### 🧠 Privacy Tips
-- Use dual-phone setup: safe vs secure. One phone for everyday use, another isolated phone for sensitive communication.
-- Never register sensitive tools with real ID. Avoid linking your name, SIM card, or personal email to high-risk apps.
-- Use apps with stealth modes or disguise options. Apps like Briar can hide their icon or run in background-only mode.
+- Keep your phone with you and avoid letting it out of sight in public or shared spaces.
+- Use apps that don’t require real names, phone numbers, or SIM cards — this adds a layer of safety.
+- If using sensitive apps, hide them inside folders or use apps that allow disguise modes (like Briar).
+- Keep conversations short and use shared emojis or phrases instead of long messages when possible.
 
 ---
 
@@ -59,13 +71,14 @@ To help vulnerable people stay connected when the internet is down or monitored 
 - ارسال پیام از طریق افراد مورد اعتماد که دسترسی به اینترنت دارند.
 - استفاده از ابزارهایی مثل Gotenna یا Meshtastic در صورت موجود بودن، برای برد بیشتر.
 
-### 🚨 مرحله ۳: در شرایط قطع کامل ارتباطات
-- استفاده از استگانوگرافی (پنهان‌سازی پیام در تصاویر).
-- استفاده از کتاب‌ها یا نقل‌قول‌های از پیش تعیین‌شده برای رمزگذاری پیام‌ها.
-- استفاده از علائم ساده برای اعلام وضعیت (مثلاً گذاشتن استوری = «من امن هستم»).
-
 ### 🧠 نکات حفظ حریم خصوصی
-- استفاده از دو گوشی: یکی عمومی و یکی برای ارتباط امن.
+- گوشی را همیشه نزد خود نگه دارید و در فضاهای عمومی تنها نگذارید.
+- از اپ‌هایی استفاده کنید که نیاز به نام واقعی یا سیم‌کارت ندارند.
+- اپ‌های حساس را در پوشه‌ها مخفی کنید یا از حالت مخفی استفاده کنید.
+- پیام‌های کوتاه و با ایموجی‌های مشترک ارسال کنید.- گوشی خود را همیشه نزد خود نگه دارید و در مکان‌های عمومی یا اشتراکی آن را رها نکنید.
+- از اپ‌هایی استفاده کنید که نام واقعی یا شماره تلفن لازم ندارند.
+- اپ‌های حساس را در پوشه پنهان قرار دهید یا از حالت مخفی آن‌ها استفاده کنید.
+- پیام‌های کوتاه و رمزی با ایموجی ارسال کنید.- استفاده از دو گوشی: یکی عمومی و یکی برای ارتباط امن.
 - عدم استفاده از شناسه واقعی در اپ‌های حساس.
 - استفاده از اپ‌هایی با حالت مخفی یا نمادهای جعلی.
 
@@ -90,13 +103,14 @@ To help vulnerable people stay connected when the internet is down or monitored 
 - העברת מסרים דרך אנשים אמינים שיש להם גישה לאינטרנט.
 - שימוש בכלים כמו Gotenna או Meshtastic אם יש.
 
-### 🚨 שלב 3: סגר מוחלט
-- שימוש בסטגנוגרפיה (החבאת הודעות בתמונות).
-- שימוש בציטוטים או ספרים מוסכמים מראש.
-- שימוש בסימנים פשוטים (למשל, סטורי = "אני בטוח").
-
 ### 🧠 טיפים לפרטיות
-- שימוש בשני טלפונים: אחד פתוח ואחד מאובטח.
+- שמרו את הטלפון אתכם ואל תשאירו אותו לבד במקומות ציבוריים.
+- השתמשו באפליקציות שלא דורשות שם אמיתי או כרטיס SIM.
+- החביאו אפליקציות רגישות בתיקיות או הפעילו מצב הסוואה.
+- שלחו הודעות קצרות עם אימוג'ים מוסכמים מראש.- שמרו את הטלפון איתכם תמיד, במיוחד במרחבים ציבוריים או משותפים.
+- העדיפו אפליקציות שאינן דורשות שם אמיתי או מספר טלפון.
+- הסתירו אפליקציות רגישות בתיקיות או השתמשו במצב הסוואה.
+- שלחו הודעות קצרות תוך שימוש באימוג'ים מוסכמים מראש.- שימוש בשני טלפונים: אחד פתוח ואחד מאובטח.
 - לא להשתמש בפרטים אמיתיים בכלים רגישים.
 - שימוש באפליקציות עם מצב נסתר או מסיכה.
 
@@ -121,13 +135,14 @@ To help vulnerable people stay connected when the internet is down or monitored 
 - نقل الرسائل عبر أشخاص موثوقين لديهم إنترنت.
 - استخدام أدوات مثل Gotenna أو Meshtastic عند التوفر.
 
-### 🚨 المرحلة 3: في حالة الإغلاق الكامل
-- استخدام الإخفاء في الصور لنقل الرسائل.
-- استخدام رموز أو كتب متفق عليها.
-- الإشارة ببساطة إلى السلامة (مثلاً قصة = "أنا بخير").
-
 ### 🧠 نصائح الخصوصية
-- استخدام هاتفين: واحد عادي وواحد آمن.
+- احتفظ بهاتفك معك دائمًا ولا تتركه في الأماكن العامة.
+- استخدم تطبيقات لا تطلب الاسم الحقيقي أو شريحة SIM.
+- أخفِ التطبيقات الحساسة داخل مجلدات أو استخدم الوضع المخفي.
+- استخدم رسائل قصيرة مع رموز تعبيرية متفق عليها.- احتفظ بهاتفك معك دائماً ولا تتركه في الأماكن العامة أو المشتركة.
+- استخدم تطبيقات لا تتطلب الاسم الحقيقي أو رقم الهاتف.
+- أخفِ التطبيقات الحساسة داخل مجلدات أو فعّل وضع التخفي.
+- استخدم رموزاً تعبيرية أو إشارات مختصرة عند إرسال الرسائل.- استخدام هاتفين: واحد عادي وواحد آمن.
 - عدم تسجيل معلوماتك الحقيقية في التطبيقات الحساسة.
 - استخدام تطبيقات بوضع التخفي أو التمويه.
 
@@ -152,13 +167,14 @@ To help vulnerable people stay connected when the internet is down or monitored 
 - İnternete erişimi olan güvendiğiniz kişiler aracılığıyla mesaj iletin.
 - Gotenna veya Meshtastic gibi araçları kullanın (varsa).
 
-### 🚨 Aşama 3: Tam Kapanma Durumu
-- Steganografi (resim içinde mesaj) kullanın.
-- Önceden belirlenmiş kitaplar veya sözler kullanın.
-- Basit durum sinyalleri (örneğin hikaye = "güvendeyim") kullanın.
-
 ### 🧠 Gizlilik İpuçları
-- İki telefon kullanın: biri genel, biri güvenli.
+- Telefonunuzu yanınızda tutun, özellikle ortak alanlarda yalnız bırakmayın.
+- Gerçek ad veya SIM istemeyen uygulamaları kullanın.
+- Hassas uygulamaları klasörlere gizleyin veya gizli mod kullanın.
+- Ortaklaşa belirlenen emojilerle kısa mesajlar gönderin.- Telefonunuzu yanınızdan ayırmayın, özellikle ortak alanlarda.
+- Gerçek adınızı veya telefon numaranızı istemeyen uygulamaları tercih edin.
+- Hassas uygulamaları klasörlere gizleyin ya da gizli modları kullanın.
+- Kısa mesajlar ve önceden anlaşılan emojilerle iletişim kurun.- İki telefon kullanın: biri genel, biri güvenli.
 - Gerçek kimlik bilgilerinizi hassas uygulamalarda kullanmayın.
 - Gizli mod veya kamuflaj sağlayan uygulamalar tercih edin.
 </div>
@@ -173,3 +189,4 @@ Want to translate this guide further, share updates, or localize it for your reg
 <footer>
   <p><small>Made with care, not fear. This page is open-source under the MIT License.</small></p>
 </footer>
+
