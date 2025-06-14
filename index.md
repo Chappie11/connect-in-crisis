@@ -12,6 +12,28 @@ title: Connect in Crisis
   <p>A secure communication guide for families, journalists, and activists during blackouts, shutdowns, or surveillance.</p>
 </header>
 
+<style>
+  [dir="rtl"] {
+    direction: rtl;
+    text-align: right;
+  }
+  [dir="ltr"] {
+    direction: ltr;
+    text-align: left;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow-x: auto;
+    display: block;
+  }
+  th, td {
+    padding: 8px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+</style>
+
 ---
 
 ## 🌍 English
@@ -159,7 +181,7 @@ If the internet goes out completely, stay calm. These tools and ideas can help y
 ---
 
 ## 🌐 Contribute or Translate
-Want to translate this guide further, share updates, or localize it for your region? [Open an issue](https://github.com/YOUR_USERNAME/connect-in-crisis/issues) or submit a pull request. We welcome your contributions.
+Want to translate this guide further, share updates, or localize it for your region? [Open an issue](https://github.com/chappie11/connect-in-crisis/issues) or submit a pull request. We welcome your contributions.
 
 ---
 
