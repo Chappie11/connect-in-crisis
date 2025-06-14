@@ -42,9 +42,7 @@ title: Connect in Crisis
   </div>
   <h3>🛠️ Tier 1: Preparation (Before Shutdown)</h3>
   <ul>
-    <li>Install apps like Bridgefy, Briar, Session, or SimpleX.</li>
-    <li>Write down phone numbers and shared emoji codes (🟢 = safe, 🔴 = need help) on paper.</li>
-    <li>Make two simple plans: one for talking with people <em>inside</em> your area, one for <em>outside</em> contacts.</li>
+    <li>Install apps like Bridgefy, Briar, Session, or SimpleX.</li><li>Make two simple plans: one for talking with people <em>inside</em> your area, one for <em>outside</em> contacts.</li>
     <li>Choose check-in times (e.g., 9 AM & 9 PM).</li>
   </ul>
   <h3>📡 Tier 2: During Blackout</h3>
@@ -70,9 +68,7 @@ title: Connect in Crisis
   <p>برای کمک به افراد در بحران برای حفظ ارتباط — چه در داخل مناطق پرخطر و چه برای تماس با عزیزان در خارج. این راهنما کوتاه، آرام و عملی است.</p>
   <h3>🛠️ مرحله ۱: آمادگی قبل از قطع اینترنت</h3>
   <ul>
-    <li>نصب اپلیکیشن‌های Bridgefy، Briar، Session یا SimpleX.</li>
-    <li>ثبت شماره‌ها و کدهای ایموجی (🟢 = امن، 🔴 = نیاز به کمک) روی کاغذ.</li>
-    <li>ایجاد دو برنامه ساده: یکی برای داخل منطقه، دیگری برای خارج.</li>
+    <li>نصب اپلیکیشن‌های Bridgefy، Briar، Session یا SimpleX.</li><li>ایجاد دو برنامه ساده: یکی برای داخل منطقه، دیگری برای خارج.</li>
     <li>تعیین زمان‌های بررسی (مثلاً ۹ صبح و ۹ شب).</li>
   </ul>
   <h3>📡 مرحله ۲: هنگام قطع اینترنت</h3>
@@ -98,9 +94,7 @@ title: Connect in Crisis
   <p>לסייע לאנשים לשמור על קשר במהלך משבר — בתוך אזורים מסוכנים ומחוצה להם. המדריך קצר, רגוע וקל לשימוש.</p>
   <h3>🛠️ שלב 1: הכנה לפני ניתוק</h3>
   <ul>
-    <li>התקן Bridgefy, Briar, Session או SimpleX.</li>
-    <li>רשום מספרי טלפון וקודי אימוג'י (🟢 = בטוח, 🔴 = צריך עזרה).</li>
-    <li>צור שני תרחישים: אחד לתקשורת בתוך האזור ואחד מחוצה לו.</li>
+    <li>התקן Bridgefy, Briar, Session או SimpleX.</li><li>צור שני תרחישים: אחד לתקשורת בתוך האזור ואחד מחוצה לו.</li>
     <li>הגדר שעות בדיקה (למשל 9:00 ו-21:00).</li>
   </ul>
   <h3>📡 שלב 2: במהלך ניתוק</h3>
@@ -126,9 +120,7 @@ title: Connect in Crisis
   <p>لمساعدة الأشخاص على البقاء على اتصال أثناء الأزمات — داخل المناطق الخطرة وخارجها. هذا الدليل قصير، هادئ وسهل الاستخدام.</p>
   <h3>🛠️ المرحلة 1: التحضير قبل الانقطاع</h3>
   <ul>
-    <li>ثبت Bridgefy، Briar، Session أو SimpleX.</li>
-    <li>اكتب الأرقام ورموز الإيموجي (🟢 = آمن، 🔴 = أحتاج مساعدة).</li>
-    <li>ضع خطتين: واحدة للمنطقة داخل، وأخرى للخارج.</li>
+    <li>ثبت Bridgefy، Briar، Session أو SimpleX.</li><li>ضع خطتين: واحدة للمنطقة داخل، وأخرى للخارج.</li>
     <li>حدد أوقات مراجعة (مثل 9 صباحًا و9 مساءً).</li>
   </ul>
   <h3>📡 المرحلة 2: أثناء الانقطاع</h3>
@@ -154,9 +146,7 @@ title: Connect in Crisis
   <p>Kriz anında iletişimi sürdürmeye yardımcı olmak — hem riskli bölgedekiler hem uzaktakiler için. Bu rehber kısa, sakin ve kullanımı kolay.</p>
   <h3>🛠️ Aşama 1: Kapatma Öncesi Hazırlık</h3>
   <ul>
-    <li>Bridgefy, Briar, Session veya SimpleX’i yükleyin.</li>
-    <li>Telefon numaraları ve emoji kodlarını (🟢 = güvende, 🔴 = yardıma ihtiyacım var) yazın.</li>
-    <li>İç bölge ve dış bölge için iki plan yapın.</li>
+    <li>Bridgefy, Briar, Session veya SimpleX’i yükleyin.</li><li>İç bölge ve dış bölge için iki plan yapın.</li>
     <li>Kontrol saatlerinizi belirleyin (ör. 9:00 ve 21:00).</li>
   </ul>
   <h3>📡 Aşama 2: Kesinti Sırasında</h3>
