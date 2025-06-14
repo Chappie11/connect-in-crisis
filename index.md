@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Connect in Crisis
 ---
 
 <style>
