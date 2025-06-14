@@ -3,189 +3,116 @@ layout: default
 title: Connect in Crisis
 ---
 
-<p align="center">
-  <img src="logo.png" alt="Connect in Crisis Logo" width="200">
-</p>
-
-<header class="hero" style="text-align: center;">
-  <h1>🛡️ Connect in Crisis</h1>
-  <p>A secure communication guide for families, journalists, and activists during blackouts, shutdowns, or surveillance.</p>
-</header>
-
 <style>
-  [dir="rtl"] {
-    direction: rtl;
-    text-align: right;
+  body {
+    font-family: sans-serif;
+    background-color: #f7f9fc;
+    color: #222;
+    margin: 0;
+    padding: 0;
   }
-  [dir="ltr"] {
-    direction: ltr;
-    text-align: left;
+  header.hero {
+    text-align: center;
+    padding: 2em 1em;
+    background: linear-gradient(to right, #0078d4, #00b7c2);
+    color: white;
+  }
+  header.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.25em;
+  }
+  header.hero p {
+    font-size: 1.2em;
+  }
+  section {
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 0 1em;
+    line-height: 1.6;
   }
   table {
     width: 100%;
     border-collapse: collapse;
     overflow-x: auto;
     display: block;
+    margin-top: 1em;
   }
   th, td {
     padding: 8px;
     border: 1px solid #ccc;
     text-align: left;
   }
+  .lang {
+    border-top: 1px solid #ddd;
+    margin-top: 3em;
+    padding-top: 2em;
+  }
+  footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #777;
+    margin: 4em 0 2em;
+  }
 </style>
 
----
+<header class="hero">
+  <h1>🛡️ Connect in Crisis</h1>
+  <p>A multilingual guide for secure communication during shutdowns, surveillance, or blackouts — for people inside or outside the zone.</p>
+</header>
 
-## 🌍 English
+<section>
+  <h2>English</h2>
 
+  <h3>🧭 Purpose</h3>
+  <p>To help people stay connected during a crisis — both those inside high-risk zones and those trying to reach them from outside. We know this information may reach you during very stressful times, so this guide is designed to be short, calm, and easy to use. Each step is practical and aimed at helping you feel more in control, even when things feel uncertain.</p>
 
-### 🧭 Purpose
-To help people stay connected during a crisis — both those inside high-risk zones and those trying to reach them from outside. We know this information may reach you during very stressful times, so this guide is designed to be short, calm, and easy to use. Each step is practical and aimed at helping you feel more in control, even when things feel uncertain.
+  <h3>📊 App Summary</h3>
+  <div style="overflow-x:auto;">
+    <table>
+      <thead>
+        <tr>
+          <th>App</th><th>Mesh?</th><th>Offline?</th><th>Encryption</th><th>Best Use Case</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Bridgefy</td><td>✅ Bluetooth</td><td>✅</td><td>Moderate</td><td>Quick local messaging; not for sensitive info</td></tr>
+        <tr><td>Briar</td><td>✅ Bluetooth/Wi‑Fi</td><td>✅</td><td>Strong</td><td>Trusted local groups (Android only)</td></tr>
+        <tr><td>Session</td><td>❌</td><td>❌</td><td>Very strong</td><td>Anonymous long-distance communication</td></tr>
+        <tr><td>SimpleX</td><td>❌</td><td>❌</td><td>Strong</td><td>Decentralized private messaging</td></tr>
+      </tbody>
+    </table>
+  </div>
 
-### 🛠️ Tier 1: Preparation (Before Shutdown)
+  <h3>🛠️ Tier 1: Preparation (Before Shutdown)</h3>
+  <ul>
+    <li>Install apps like Bridgefy, Briar, Session, or SimpleX. They help you stay in touch even when the internet is down.</li>
+    <li>Write down phone numbers and shared emoji codes (🟢 = safe, 🔴 = need help) on paper, in case your phone dies or is lost.</li>
+    <li>Make two simple plans: one for talking with people <em>inside</em> your area, one for checking in with loved ones <em>outside</em>.</li>
+    <li>Choose a time for check-ins (like 9 AM and 9 PM) so no one panics without updates.</li>
+  </ul>
 
-#### 📊 App Summary
-| App        | Mesh? | Offline? | Encryption | Best Use Case |
-|------------|:-----:|:--------:|:----------:|----------------|
-| **Bridgefy** | ✅ Bluetooth | ✅ | Moderate | Quick local messaging; not for sensitive info |
-| **Briar**    | ✅ Bluetooth/Wi‑Fi | ✅ | Strong | Trusted local groups (Android only) |
-| **Session**  | ❌ | ❌ | Very strong | Anonymous long-distance communication |
-| **SimpleX**  | ❌ | ❌ | Strong | Decentralized private messaging |
+  <h3>📡 Tier 2: During Blackout</h3>
+  <ul>
+    <li>Use Bluetooth mesh (Bridgefy, Briar) to message people close to you — no Wi-Fi or cell needed.</li>
+    <li>If one person has internet, they can pass updates for others. Send short messages clearly (e.g., "Ali safe. Need water.").</li>
+    <li>If you have tools like Gotenna or Meshtastic, use them. They’re great for group coverage.</li>
+    <li>If you reach someone who’s online, ask them to relay info to families or friends outside the zone.</li>
+  </ul>
 
-Take a deep breath — you don’t have to do everything at once. These steps are here to support you and can be done one by one, with people you trust:
+  <h3>🧠 Privacy Tips</h3>
+  <ul>
+    <li>Keep your phone with you and avoid letting it out of sight in public or shared spaces.</li>
+    <li>Use apps that don’t require real names, phone numbers, or SIM cards — this adds a layer of safety.</li>
+    <li>If using sensitive apps, hide them inside folders or use apps that allow disguise modes (like Briar).</li>
+    <li>Keep conversations short and use shared emojis or phrases instead of long messages when possible.</li>
+  </ul>
+</section>
 
-- Install apps like Bridgefy, Briar, Session, or SimpleX. They help you stay in touch even when the internet is down.
-- Write down phone numbers and shared emoji codes (🟢 = safe, 🔴 = need help) on paper, in case your phone dies or is lost.
-- Make two simple plans: one for talking with people *inside* your area, one for checking in with loved ones *outside*.
-- Choose a time for check-ins (like 9 AM and 9 PM) so no one panics without updates.
-
-### 📡 Tier 2: During Blackout
-
-If the internet goes out completely, stay calm. These tools and ideas can help you reach others nearby or pass messages out:
-
-- Use Bluetooth mesh (Bridgefy, Briar) to message people close to you — no Wi-Fi or cell needed.
-- If one person has internet, they can pass updates for others. Send short messages clearly (e.g., 'Ali safe. Need water.').
-- If you have tools like Gotenna or Meshtastic, use them. They’re great for group coverage.
-- If you reach someone who’s online, ask them to relay info to families or friends outside the zone.
-
-### 🧠 Privacy Tips
-- Keep your phone with you and avoid letting it out of sight in public or shared spaces.
-- Use apps that don’t require real names, phone numbers, or SIM cards — this adds a layer of safety.
-- If using sensitive apps, hide them inside folders or use apps that allow disguise modes (like Briar).
-- Keep conversations short and use shared emojis or phrases instead of long messages when possible.
-
----
-
-<div dir="rtl">
-
-## 🇮🇷 Farsi (فارسی)
-
-### 🧭 هدف
-برای کمک به افراد آسیب‌پذیر برای حفظ ارتباط در زمان قطع یا نظارت اینترنت — به‌ویژه در مناطق پرخطر.
-
-### 🛠️ مرحله ۱: آمادگی قبل از قطع اینترنت
-- نصب اپلیکیشن‌های امن مانند Bridgefy، Briar، Session، SimpleX. این اپ‌ها می‌توانند بدون اینترنت سنتی یا با ارتباط نظیر به نظیر کار کنند. آن‌ها را روی تمام گوشی‌های خانواده نصب کنید.
-- یادداشت اطلاعات تماس و کدهای مشترک روی کاغذ. در صورت گم شدن یا ضبط گوشی، هنوز به اطلاعات حیاتی دسترسی دارید.
-- تعیین علائم تصویری یا رمز برای وضعیت‌ها. از ایموجی ساده استفاده کنید مثل 🟢 = امن هستم، 🔴 = نیاز به کمک دارم.
-
-### 📡 مرحله ۲: هنگام قطع اینترنت
-- استفاده از شبکه بلوتوث (Bridgefy، Briar) در محدوده نزدیک. این ابزارها امکان ارسال پیام بدون اینترنت را فراهم می‌کنند.
-- ارسال پیام از طریق افراد مورد اعتماد که دسترسی به اینترنت دارند.
-- استفاده از ابزارهایی مثل Gotenna یا Meshtastic در صورت موجود بودن، برای برد بیشتر.
-
-### 🧠 نکات حفظ حریم خصوصی
-- گوشی را همیشه نزد خود نگه دارید و در مکان‌های عمومی یا اشتراکی آن را تنها نگذارید.
-- از اپ‌هایی استفاده کنید که نیازی به نام واقعی، شماره تلفن یا سیم‌کارت ندارند.
-- اگر از اپلیکیشن‌های حساس استفاده می‌کنید، آن‌ها را در پوشه‌ای پنهان کرده یا از حالت مخفی استفاده کنید (مثل Briar).
-- مکالمات را کوتاه نگه دارید و به جای پیام‌های طولانی، از ایموجی‌ها یا عبارات ساده استفاده کنید.
----
-
-</div>
-
-<div dir="rtl">
-
-## 🇮🇱 Hebrew (עברית)
-
-### 🧭 מטרה
-לסייע לאנשים פגיעים להישאר מחוברים בזמן הפסקת אינטרנט או פיקוח, במיוחד באזורים מסוכנים.
-
-### 🛠️ שלב 1: הכנה לפני ניתוק
-- התקנת אפליקציות מאובטחות: Bridgefy, Briar, Session, SimpleX.
-- גיבוי מידע אנשי קשר וסיסמאות על נייר.
-- קביעת קודים/אימוג'ים לבדיקה תקופתית.
-
-### 📡 שלב 2: במהלך ניתוק
-- שימוש ברשת בלוטות' בטווח קרוב.
-- העברת מסרים דרך אנשים אמינים שיש להם גישה לאינטרנט.
-- שימוש בכלים כמו Gotenna או Meshtastic אם יש.
-
-### 🧠 טיפים לפרטיות
-- שמרו את הטלפון איתכם ואל תשאירו אותו ללא השגחה במקומות ציבוריים או משותפים.
-- השתמשו באפליקציות שאינן דורשות שם אמיתי, מספר טלפון או כרטיס SIM.
-- אם אתם משתמשים באפליקציות רגישות, הסתירו אותן בתוך תיקיות או הפעילו מצבים מוסווים (כמו Briar).
-- שמרו על הודעות קצרות והשתמשו באימוג'ים או ביטויים פשוטים במקום טקסטים ארוכים.
----
-
-</div>
-
-<div dir="rtl">
-
-## 🇸🇾 Arabic (العربية)
-
-### 🧭 الهدف
-مساعدة الأشخاص المعرضين للخطر في البقاء على اتصال أثناء انقطاع الإنترنت أو عند المراقبة، خصوصاً في المناطق الحساسة.
-
-### 🛠️ المرحلة 1: التحضير قبل الانقطاع
-- تثبيت تطبيقات آمنة مثل Bridgefy، Briar، Session، SimpleX.
-- حفظ أرقام التواصل والرموز السرية ورقيًا.
-- تحديد إشارات أو رموز تعبيرية للتحقق من السلامة.
-
-### 📡 المرحلة 2: أثناء الانقطاع
-- استخدام شبكات البلوتوث للمسافات القصيرة.
-- نقل الرسائل عبر أشخاص موثوقين لديهم إنترنت.
-- استخدام أدوات مثل Gotenna أو Meshtastic عند التوفر.
-
-### 🧠 نصائح الخصوصية
-- احتفظ بهاتفك معك دائمًا ولا تتركه في الأماكن العامة أو المشتركة.
-- استخدم تطبيقات لا تطلب الاسم الحقيقي أو رقم الهاتف أو شريحة SIM.
-- إذا كنت تستخدم تطبيقات حساسة، فقم بإخفائها داخل مجلد أو فعّل وضع التخفي (مثل Briar).
-- حافظ على المحادثات قصيرة، واستخدم الرموز التعبيرية أو العبارات البسيطة بدلاً من الرسائل الطويلة.
----
-
-</div>
-
-<div dir="ltr">
-
-## 🇹🇷 Turkish (Türkçe)
-
-### 🧭 Amaç
-İnternetin kapatıldığı veya gözetlendiği durumlarda özellikle yüksek riskli bölgelerde insanların bağlantıda kalmalarına yardımcı olmak.
-
-### 🛠️ Aşama 1: Kapatma Öncesi Hazırlık
-- Güvenli uygulamaları kurun: Bridgefy, Briar, Session, SimpleX.
-- Kişi bilgilerini ve kodları kağıda yedekleyin.
-- Durum bildirimleri için emoji/kod sistemi belirleyin.
-
-### 📡 Aşama 2: Kesinti Sırasında
-- Kısa mesafe Bluetooth ağı kullanın (Bridgefy, Briar).
-- İnternete erişimi olan güvendiğiniz kişiler aracılığıyla mesaj iletin.
-- Gotenna veya Meshtastic gibi araçları kullanın (varsa).
-
-### 🧠 Gizlilik İpuçları
-- Telefonunuzu yanınızda tutun ve halka açık veya paylaşılan alanlarda yalnız bırakmayın.
-- Gerçek ad, telefon numarası veya SIM kart gerektirmeyen uygulamaları kullanın.
-- Hassas uygulamaları klasörlerin içine gizleyin veya gizli modları tercih edin (örneğin Briar).
-- Mesajlarınızı kısa tutun ve uzun yazılar yerine emoji ya da basit ifadeler kullanın.
-</div>
-
----
-
-## 🌐 Contribute or Translate
-Want to translate this guide further, share updates, or localize it for your region? [Open an issue](https://github.com/chappie11/connect-in-crisis/issues) or submit a pull request. We welcome your contributions.
-
----
+<section>
+  <h3>🌐 Contribute or Translate</h3>
+  <p>Want to translate this guide further, share updates, or localize it for your region? <a href="https://github.com/chappie11/connect-in-crisis/issues">Open an issue</a> or submit a pull request. We welcome your contributions.</p>
+</section>
 
 <footer>
   <p><small>Made with care, not fear. This page is open-source under the MIT License.</small></p>
 </footer>
-
